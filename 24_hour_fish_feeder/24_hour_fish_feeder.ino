@@ -7,7 +7,7 @@
   
  */
 //[IMPORTANT]: set this to when you start the program (i.e 4:30AM would be 4.5) [0.5-24 range]
-float startTime = 7.5f; 
+float startTime = 16.0f; 
 
 #include <Stepper.h>
 #define reset_time 24
